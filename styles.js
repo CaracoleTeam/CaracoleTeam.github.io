@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\n@import url('https://fonts.googleapis.com/css?family=Oswald');\n/* You can add global styles to this file, and also import other style files */\nhtml,body{\n    margin: 0;\n}\n.container{\n    width: 100%;\n}"
+module.exports = "\n@import url('https://fonts.googleapis.com/css?family=Oswald');\n@import url('https://fonts.googleapis.com/css?family=Roboto:300\"');\n/* You can add global styles to this file, and also import other style files */\nhtml,body{\n    margin: 0;\n}\n.container{\n    width: 100%;\n}"
 
 /***/ }),
 
